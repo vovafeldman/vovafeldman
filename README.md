@@ -8,7 +8,7 @@
 
 🔋 I get pumped by helping fellow developers in the open-source space to make a living while pursuing their passion products through [Freemius](https://freemius.com) (so meta, I know...).
 
-🚀 I'm looking for a [tech lead](https://freemius.com/careers/vp-engineering/) to take over Freemius' engineering and help me taking the company to its next level!
+🤠 Are you looking for your next rodeo? 🚀 I'm looking for a [tech lead](https://freemius.com/careers/vp-engineering/) to take over Freemius' engineering and help me taking the company to its next level!
 
 <!--
 **vovafeldman/vovafeldman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
