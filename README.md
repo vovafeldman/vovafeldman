@@ -1,14 +1,14 @@
 ### Hi there 👋
 
-#### I'm a serial maker and full-stack developer who transitioned from the technical co-founder seat 💺 to becoming the ship's captain - aye-aye 👨‍✈️ 
+#### I'm a fresh dad, a serial maker, and a full-stack developer who transitioned from the technical co-founder seat 💺 to becoming the ship's captain - aye-aye 👨‍✈️ 
 
 🧐 Addicted to challenges and solving complex problems that may seem unsolvable using technology and engineering. 
 
-🧘‍♂️ Passionate about optimization (in all aspects of life), learning something new every day, fitness, and pursuit of happiness. 
+🧘‍♂️ Passionate about optimization (in all aspects of life), learning something new every day, fitness, and the pursuit of happiness. 
 
 🔋 I get pumped by helping fellow developers in the open-source space to make a living while pursuing their passion products through [Freemius](https://freemius.com) (so meta, I know...).
 
-🤠 **Are you looking for your next rodeo?** 🚀 I'm looking for a [tech lead](https://freemius.com/careers/vp-engineering/) to take over Freemius' engineering and help me taking the company to its next level!
+🤠 **Are you looking for your next rodeo?** 🚀 I'm looking for mission-driven people who want to make a difference. Check out our [careers page](https://freemius.com/careers/).
 
 <!--
 **vovafeldman/vovafeldman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
