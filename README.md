@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-#### I'm a fresh dad, a serial maker, and a full-stack developer who transitioned from the technical co-founder seat 💺 to becoming the ship's captain - aye-aye 👨‍✈️ 
+#### I'm a dad, a serial maker, and a full-stack developer who transitioned from the technical co-founder seat 💺 to becoming the captain - aye-aye 👨‍✈️ 
 
 🧐 Addicted to challenges and solving complex problems that may seem unsolvable using technology and engineering. 
 
 🧘‍♂️ Passionate about optimization (in all aspects of life), learning something new every day, fitness, and the pursuit of happiness. 
 
-🔋 I get pumped by helping fellow developers in the open-source space to make a living while pursuing their passion products through [Freemius](https://freemius.com) (so meta, I know...).
+🔋 I get pumped up when I help fellow entrepreneurs make a living while pursuing their passion products through [Freemius](https://freemius.com) (so meta, I know...).
 
 🤠 **Are you looking for your next rodeo?** 🚀 I'm looking for mission-driven people who want to make a difference. Check out our [careers page](https://freemius.com/careers/).
 
